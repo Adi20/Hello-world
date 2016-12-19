@@ -2,4 +2,4 @@
 My first repository
 
 
-Aditya here, what up? Just started coding. This will be great journey, I know it. 
+Aditya here, what up? Just started coding. This will be a great journey, I know it. 
